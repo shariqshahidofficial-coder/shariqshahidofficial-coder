@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shariq-shahid-offical/)
 [![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shariqshahidoff)
 [![GitHub](https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/shariqshahidofficial-coder)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=shariqshahidofficial-coder&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/shariqshahidofficial-coder)
 
 </div>
@@ -29,6 +30,7 @@ location:    "Karachi, Pakistan 🇵🇰"
 role:        "Full Stack Web Developer | Next.js Specialist"
 focus:       ["Modern Web Apps", "API Development", "UI/UX Engineering"]
 currently:   "Building production-grade full stack projects 🚀"
+learning:    "Advanced System Design & Cloud Architecture ☁️"
 available:   "Open to freelance & remote opportunities 💼"
 fun_fact:    "I turn coffee ☕ into clean, scalable code 🎯"
 ```
@@ -36,6 +38,14 @@ fun_fact:    "I turn coffee ☕ into clean, scalable code 🎯"
 > 💬 **About:** Passionate Full Stack Web Developer from Karachi, Pakistan with a strong
 > command over modern JavaScript ecosystems. I craft end-to-end web solutions — from
 > pixel-perfect frontends to robust, scalable backends. Always shipping, always improving.
+
+<div align="center">
+
+![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=shariqshahidofficial-coder&theme=tokyonight&hide_border=true&bg_color=020c1b&title_color=64ffda&text_color=ccd6f6&layout=compact)
+
+</div>
+
+> ℹ️ *WakaTime widget requires you to link a WakaTime account — remove this block if you don't use one.*
 
 ---
 
@@ -91,6 +101,8 @@ fun_fact:    "I turn coffee ☕ into clean, scalable code 🎯"
 
 </div>
 
+> 🔄 **Auto-pinned repos** (optional): replace the table above with GitHub's native "Pinned" feature from your profile settings for a zero-maintenance section.
+
 ---
 
 ## 📊 GitHub Stats
@@ -109,11 +121,54 @@ fun_fact:    "I turn coffee ☕ into clean, scalable code 🎯"
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=shariqshahidofficial-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7)
+
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shariqshahidofficial-coder&theme=tokyo-night&hide_border=true&area=true&area_color=64ffda&color=a78bfa&line=64ffda&point=f472b6&bg_color=020c1b)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shariqshahidofficial-coder/shariqshahidofficial-coder/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+> ⚙️ *This needs a small one-time GitHub Actions setup (`snk` workflow) — set once, updates itself forever. Ask me and I'll set that workflow file up too.*
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- Add your blog automation (dev.to / Hashnode / Medium RSS) here to auto-populate this section.
+<!-- BLOG-POST-LIST:END -->
+
+> 💡 *This block auto-updates via a GitHub Action if you connect an RSS feed — completely maintenance-free once configured.*
+
+---
+
+## 💖 Support My Work
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/shariqshahidofficial-coder)
 
 </div>
 
@@ -128,6 +183,8 @@ fun_fact:    "I turn coffee ☕ into clean, scalable code 🎯"
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shariq-shahid-offical/)
 &nbsp;
 [![Twitter/X](https://img.shields.io/badge/Follow%20on%20X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shariqshahidoff)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 </div>
 
