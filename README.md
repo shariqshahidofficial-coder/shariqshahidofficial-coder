@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:020c1b,40:0a192f,80:1a1040,100:020c1b&height=250&section=header&text=Shariq%20Shahid&fontSize=72&fontColor=64ffda&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20%7C%20Next.js%20Specialist%20%7C%20Open%20Source%20Enthusiast&descAlignY=62&descColor=a78bfa&descSize=18&animation=twinkling&stroke=64ffda&strokeWidth=2)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:020c1b,40:0a192f,80:1a1040,100:020c1b&height=250&section=header&text=Shariq%20Shahid&fontSize=72&fontColor=64ffda&fontAlignY=40&desc=Senior%20Full%20Stack%20Developer%20%7C%204%2B%20Years%20%7C%20Next.js%20Specialist&descAlignY=62&descColor=a78bfa&descSize=18&animation=twinkling&stroke=64ffda&strokeWidth=2)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&height=45&lines=~/shariq+%24+echo+%22Turning+ideas+into+scalable+products+%F0%9F%9A%80%22;~/shariq+%24+git+commit+-m+%22ship+clean+code+always%22;~/shariq+%24+npx+create-next-app%40latest+awesome-project;~/shariq+%24+docker+build+-t+shariq-app+.)](https://git.io/typing-svg)
 
@@ -27,25 +27,19 @@
 ```yaml
 name:        "Shariq Shahid"
 location:    "Karachi, Pakistan 🇵🇰"
-role:        "Full Stack Web Developer | Next.js Specialist"
-focus:       ["Modern Web Apps", "API Development", "UI/UX Engineering"]
-currently:   "Building production-grade full stack projects 🚀"
-learning:    "Advanced System Design & Cloud Architecture ☁️"
-available:   "Open to freelance & remote opportunities 💼"
-fun_fact:    "I turn coffee ☕ into clean, scalable code 🎯"
+role:        "Senior Full Stack Web Developer | Next.js Specialist"
+experience:  "4+ years building production web applications"
+focus:       ["System Architecture", "Scalable APIs", "Performance Engineering", "UI/UX"]
+currently:   "Architecting and shipping production-grade full stack systems 🚀"
+mentoring:   "Guiding teams on clean architecture & best practices 🧭"
+available:   "Open to senior roles, consulting & remote opportunities 💼"
 ```
 
-> 💬 **About:** Passionate Full Stack Web Developer from Karachi, Pakistan with a strong
-> command over modern JavaScript ecosystems. I craft end-to-end web solutions — from
-> pixel-perfect frontends to robust, scalable backends. Always shipping, always improving.
-
-<div align="center">
-
-![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=shariqshahidofficial-coder&theme=tokyonight&hide_border=true&bg_color=020c1b&title_color=64ffda&text_color=ccd6f6&layout=compact)
-
-</div>
-
-> ℹ️ *WakaTime widget requires you to link a WakaTime account — remove this block if you don't use one.*
+> 💬 **About:** Senior Full Stack Developer with 4+ years of experience designing and
+> delivering production-grade web applications end-to-end. Deep expertise across the
+> modern JavaScript ecosystem — from architecting scalable backends and APIs to building
+> polished, performant frontends. I focus on writing maintainable code, making sound
+> technical decisions, and shipping products that scale.
 
 ---
 
@@ -96,12 +90,12 @@ fun_fact:    "I turn coffee ☕ into clean, scalable code 🎯"
 | &nbsp; | Project | Description | Stack | Links |
 |:---:|:---|:---|:---:|:---:|
 | 🌐 | **Personal Portfolio** | A sleek, animated portfolio showcasing my skills, projects and journey as a full stack developer. | `Next.js` `Tailwind` `Framer Motion` | [![Live](https://img.shields.io/badge/-Live-0a192f?style=flat-square&logo=vercel&logoColor=64ffda)](https://nextjs-portfolio-five-delta-98.vercel.app/) |
-| 🛒 | **Project Two** | Add your project name & description here. | `React` `Node.js` `MongoDB` | [![Repo](https://img.shields.io/badge/-Repo-0a192f?style=flat-square&logo=github&logoColor=64ffda)](https://github.com/shariqshahidofficial-coder) |
-| 🤖 | **Project Three** | Add your project name & description here. | `Next.js` `PostgreSQL` `Prisma` | [![Repo](https://img.shields.io/badge/-Repo-0a192f?style=flat-square&logo=github&logoColor=64ffda)](https://github.com/shariqshahidofficial-coder) |
+| 🛒 | **[Project Name]** | *(placeholder)* Replace with a real project once ready — impact, scale, or problem solved. | `React` `Node.js` `MongoDB` | [![Repo](https://img.shields.io/badge/-Repo-0a192f?style=flat-square&logo=github&logoColor=64ffda)](https://github.com/shariqshahidofficial-coder) |
+| 🤖 | **[Project Name]** | *(placeholder)* Replace with a real project once ready — impact, scale, or problem solved. | `Next.js` `PostgreSQL` `Prisma` | [![Repo](https://img.shields.io/badge/-Repo-0a192f?style=flat-square&logo=github&logoColor=64ffda)](https://github.com/shariqshahidofficial-coder) |
 
 </div>
 
-> 🔄 **Auto-pinned repos** (optional): replace the table above with GitHub's native "Pinned" feature from your profile settings for a zero-maintenance section.
+> 💡 **Note:** Rows marked *(placeholder)* are ready-made slots — jab naye projects ban jayein, sirf naam, description, stack aur link daal dena, structure change nahi karna paray ga.
 
 ---
 
@@ -150,27 +144,6 @@ fun_fact:    "I turn coffee ☕ into clean, scalable code 🎯"
 </div>
 
 > ⚙️ *This needs a small one-time GitHub Actions setup (`snk` workflow) — set once, updates itself forever. Ask me and I'll set that workflow file up too.*
-
----
-
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Add your blog automation (dev.to / Hashnode / Medium RSS) here to auto-populate this section.
-<!-- BLOG-POST-LIST:END -->
-
-> 💡 *This block auto-updates via a GitHub Action if you connect an RSS feed — completely maintenance-free once configured.*
-
----
-
-## 💖 Support My Work
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/shariqshahidofficial-coder)
-
-</div>
 
 ---
 
